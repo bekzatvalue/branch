@@ -21,6 +21,7 @@ public class Main {
             if (i == 4) {
                 break;
             }
+            System.out.println("Men jany branch tuzddum");
         }
     }
 }
