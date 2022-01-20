@@ -21,6 +21,11 @@ public class Main {
             if (i == 4) {
                 break;
             }
+
+            }
+            System.out.println("men jany branch tuzdum");
+        System.out.println("men jany branch tuzdum");
+
         }
     }
-}
+
